@@ -4,11 +4,11 @@
 <div align="center">
   <a href="https://github.com/vilgaxDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vilgaxDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?vilgaxDev=vilgaxDev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilgaxDev&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
-- 🌱 I’m currently working  **React, NodeJS, SpiringBoot and TypeScript**
+- 🌱 I’m currently working  **React, NodeJS, SpringBoot and TypeScript**
 
 - 👨‍💻  My  portfolio is  available at [https://kenbvilgaxportfolio.web.app//](https://kenbvilgaxportfolio.web.app//)
 
