@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working  **React, NodeJS, SpringBoot and TypeScript**
 
-- 👨‍💻  My  portfolio is  available at [https://kenbvilgaxportfolio.web.app//](https://kenbvilgaxportfolio.web.app//)
+- 👨‍💻  My  portfolio is  available at [https://vilgax-dev-fafa.vercel.app/](https://vilgax-dev-fafa.vercel.app/)
 
 - 💬 Ask me about **React, HTML, CSS ,JS and  SpringBoot**
 
