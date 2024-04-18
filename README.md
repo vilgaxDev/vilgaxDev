@@ -12,7 +12,7 @@
 
 - 👨‍💻  My  portfolio is  available at [https://vilgax-dev-fafa.vercel.app/](https://vilgax-dev-fafa.vercel.app/)
 
-- 💬 Ask me about **React, HTML, CSS ,JS and  SpringBoot**
+- 💬 Ask me about **React, Angular, Typecript  and  SpringBoot**
 
 - 📫 How to reach me **ken.vilgax@gmail.com**
 
