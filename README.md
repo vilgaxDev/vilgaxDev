@@ -12,7 +12,7 @@
 
 - 👨‍💻  My  portfolio is  available at [https://vilgax-dev-fafa.vercel.app/](https://kenb-vilgax-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, Next js, Nest Js,   and  SpringBoot**
+- 💬 Ask me about **React, Next js, Nest Js, Node  and  SpringBoot**
 
 - 📫 How to reach me **ken.vilgax@gmail.com**
 
