@@ -51,7 +51,7 @@ I specialise in building high-performance, scalable, and user-friendly web solut
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilgaxDev&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-profile-trophy.vercel.app/?username=vilgaxDev&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vilgaxDev&theme=tokyonight" />
+
 
 
 </p>
