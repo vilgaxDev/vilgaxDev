@@ -22,7 +22,7 @@ I specialise in building high-performance, scalable, and user-friendly web solut
 
 - 💬 Ask me about: **React, Next.js, NestJS, Node.js, Spring Boot**
 - 🌍 Available for **freelance & remote roles  & Jobs**
-- 👨‍💻 Portfolio: [kenb-vilgax-portfolio.vercel.app](https://kenb-vilgax-portfolio.vercel.app)
+- 👨‍💻 Portfolio: [kenb-vilgax-portfolio..app](https://kenb-vilgax-portfolio.vercel.app)
 - 📫 Reach me: **ken.vilgax@gmail.com**
 
 ---
@@ -50,4 +50,8 @@ I specialise in building high-performance, scalable, and user-friendly web solut
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilgaxDev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vilgaxDev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vilgaxDev&theme=tokyonight" />
+
+
 </p>
