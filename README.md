@@ -17,8 +17,9 @@
 
 ### 🚀 About Me
 
-I specialise in building high-performance, scalable, and user-friendly web solutions using:  
-🚀 **Next.js**, ⚛️ **React**, 🖥️ **Angular**, 🔴 **Node.js**, 🎯 **NestJS**, ☕ **Java (Spring Boot)**, and 🧩 **ASP.NET**
+I specialize in building high-performance, scalable, and user-friendly web solutions using:  
+
+🚀 **Next.js**, ⚛️ **React**, 🖥️ **Angular**, 🔴 **Node.js**, 🎯 **NestJS**, ☕ **Java (Spring Boot)**, 🤖 **AI/ML**, and ☁️ **AWS Cloud**
 
 - 💬 Ask me about: **React, Next.js, NestJS, Node.js, Spring Boot**
 - 🌍 Available for **freelance & remote roles  & Jobs**
@@ -55,17 +56,6 @@ I specialise in building high-performance, scalable, and user-friendly web solut
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilgaxDev&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vilgaxDev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vilgaxDev&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=vilgaxDev&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophy" />
-</p>
+
