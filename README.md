@@ -21,11 +21,9 @@ I specialise in building high-performance, scalable, and user-friendly web solut
 🚀 **Next.js**, ⚛️ **React**, 🖥️ **Angular**, 🔴 **Node.js**, 🎯 **NestJS**, ☕ **Java (Spring Boot)**, and 🧩 **ASP.NET**
 
 - 💬 Ask me about: **React, Next.js, NestJS, Node.js, Spring Boot**
-- 🌍 Available for **freelance & remote roles**
+- 🌍 Available for **freelance & remote roles  & Jobs**
 - 👨‍💻 Portfolio: [kenb-vilgax-portfolio.vercel.app](https://kenb-vilgax-portfolio.vercel.app)
 - 📫 Reach me: **ken.vilgax@gmail.com**
-- 🏢 Currently with: **Evotech Innovations @evotech-innovations**
-- 📍 Nairobi | he/him
 
 ---
 
